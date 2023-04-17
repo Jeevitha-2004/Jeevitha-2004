@@ -1,4 +1,3 @@
-
 <h3 align="center">Hey there 👋,I'm Jeevitha ️</h3>
 
 ###
@@ -15,9 +14,8 @@
 
 ###
 
-<br clear="both">
 
-<h3 align="center">🤍🤳🏻 LET'S GET CONNECTED</h3>
+<h3 align="center">LET'S GET CONNECTED🤍🤳🏻 </h3>
 
 ###
 
