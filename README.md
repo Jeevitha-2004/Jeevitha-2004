@@ -1,4 +1,4 @@
-<h3 align="center">Hey there 👋,I'm Jeevitha ️</h3>
+<h2 align="center">Hey there 👋,I'm Jeevitha ️</h2>
 
 ###
 
