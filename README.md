@@ -17,7 +17,7 @@
 ###
 
 
-<h3 align="center">LET'S GET CONNECTED🤍🤳🏻 </h3>
+<h4 align="center">LET'S GET CONNECTED</h4>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="center">👩‍💻 About Me</h3>
+<h4 align="center">👩‍💻 ABOUT ME</h4>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h4 align="center">🛠 LANGUAGE AND TOOLS</h4>
 
 ###
 
@@ -55,7 +55,7 @@
 
 <div align="center">
 <details>
-<summary> <h3> GitHub Stats: </h3> </summary>
+<summary> <h4> GitHub Stats: </h4> </summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=Jeevitha-2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jeevitha-2004&theme=dark&hide_border=false)<br/>
