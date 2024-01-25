@@ -52,7 +52,7 @@
 
 <div align="center">
   
-   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FE7A16?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Jeevitha20043/)
+   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FE7A16?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Jeevitha2004/)
    [![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/21CS067_KPRIET?hr_r=1)
    <!--[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your name?tab=repositories)-->
    <!--[![CodingNinjas Badge](https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/your name)-->
